@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 25 00:26:10 2019
-
-@author: Chad
-"""
-
 from bs4 import BeautifulSoup
 import requests
 import numpy as np
